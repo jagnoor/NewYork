@@ -11,10 +11,7 @@
     var StartYear = $("#StartYear").val()
     var data = [];
 
-    var SearchTerm = "Trump"
-    var NoRecord = 5
-    var EndYear = ""
-    var StartYear = ""
+  
 
 
     url += '?' + $.param({
